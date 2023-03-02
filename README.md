@@ -6,6 +6,14 @@ This repository is a collection of my works in both teaching topics and research
 - Logistic Regression  
 - Decision Tree and Random Forest  
 - Neural Network
+- K-Means Clustering  
+- Hierarchical Clustering  
+- DBscan  
+- Latent Dirichlet Allocation  
+- Introduction to Deep Learning  
+- Convolutional Neural Network 
+- Recurrent Neural Network   
+- Transformer
 
 # Researches  
 - DeepMycosis  
