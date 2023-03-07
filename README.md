@@ -3,7 +3,7 @@ This repository is a collection of my works in both teaching topics and research
 
 # Teachine Topics  
 - Introduction to Machine Learning  
-- Logistic Regression  
+- [Logistic Regression](https://github.com/Ratchainant/ratchainant.thammasudjarit/blob/main/Teaching/Logistic%20Regression.md)  
 - Decision Tree and Random Forest  
 - Neural Network
 - K-Means Clustering  
